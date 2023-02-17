@@ -12,13 +12,14 @@
 - [Identifying At-Risk Students (NumPy, pandas, Matplotlib, and scikit-learn)](https://github.com/shanemcbryde)
 
 <h2>Machine Learning:</h2>
-- <b>Predicting Patient Development Of Septic Shock (Recent Temporal Patterns (RTP) and Long Short-Term Memory (LSTM)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/shanemcbryde)
+
+- [Predicting Patient Development Of Septic Shock (Recent Temporal Patterns (RTP) and Long Short-Term Memory (LSTM)](https://github.com/shanemcbryde)
 
 <h2>Artificial Intelligence:</h2>
 
 <h2>Composition:</h2>
-  - [JWipe (Disk Wiping Utility)](https://github.com/shanemcbryde)
+
+- [JWipe (Disk Wiping Utility)](https://github.com/shanemcbryde)
 
 
 <h2>Connect with me:</h2>
