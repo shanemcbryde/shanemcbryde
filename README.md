@@ -1,4 +1,4 @@
-<h1>Shane McBryde <br/><a href="https://https://github.com/shanemcbryde">Programmer, Data Scientist, Data Analist</a></h1>
+<h1>Shane McBryde <br/><a href="https://https://github.com/shanemcbryde">Programmer, Data Scientist, Data Analyst</a></h1>
 
 <h2>👨‍💻 Capstone Projects:</h2>
 
