@@ -23,17 +23,18 @@
 
 <h2>Credentials:</h2>
 
-<b>Degree</b>
-- [Bachelor of Science in Computer Science](https://github.com/shanemcbryde)
+- <b>Degree</b>
+  - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde)
 
-<b>Certification</b>
-- [Data Scientist](https://github.com/shanemcbryde)
-- [Artificial Intelligence Associate](https://github.com/shanemcbryde)
-- [CompTIA Project+](https://github.com/shanemcbryde)
-- [CompTIA A+](https://github.com/shanemcbryde)
+- <b>Certification</b>
+  - [Data Scientist](https://github.com/shanemcbryde)
+  - [Artificial Intelligence Associate](https://github.com/shanemcbryde)
+  - [CompTIA Project+](https://github.com/shanemcbryde)
+  - [CompTIA A+](https://github.com/shanemcbryde)
 
-<h2>Connect with me:</h2>
+<h2>Contact:</h2>
 
+[LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
 [<img align="left" alt="ShaneMcBryde | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shanekmcbryde
