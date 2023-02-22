@@ -24,13 +24,13 @@
 <h2>Credentials:</h2>
 
 - <b>Degree</b>
-  - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde)
+  - [Bachelor of Science in Computer Science](Certifications/BS Computer Science.pdf)
 
 - <b>Certification</b>
-  - [Data Scientist](https://github.com/shanemcbryde)
-  - [Artificial Intelligence Associate](https://github.com/shanemcbryde)
-  - [CompTIA Project+](https://github.com/shanemcbryde)
-  - [CompTIA A+](https://github.com/shanemcbryde)
+  - [Data Scientist](Certifications/AI Academy/AI Academy Data Scientist Completion Certificate Spring 2022.pdf)
+  - [Artificial Intelligence Associate](Certifications/AI Academy/AI Academy AI Associate Completion Certificate Fall 2022.pdf)
+  - [CompTIA Project+](Certifications/Comptia/CompTIA Project+ certificate.pdf)
+  - [CompTIA A+](Certifications/Comptia/CompTIA A+ ce certificate.pdf)
 
 <h2>Contact:</h2>
 
