@@ -24,13 +24,13 @@
 <h2>Credentials:</h2>
 
 - <b>Degree</b>
-  - [Bachelor of Science in Computer Science](Certifications/BS Computer Science.pdf)
+  - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/BS%20Computer%20Science.pdf)
 
 - <b>Certification</b>
-  - [Data Scientist](Certifications/AI Academy/AI Academy Data Scientist Completion Certificate Spring 2022.pdf)
-  - [Artificial Intelligence Associate](Certifications/AI Academy/AI Academy AI Associate Completion Certificate Fall 2022.pdf)
-  - [CompTIA Project+](Certifications/Comptia/CompTIA Project+ certificate.pdf)
-  - [CompTIA A+](Certifications/Comptia/CompTIA A+ ce certificate.pdf)
+  - [Data Scientist](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20Data%20Scientist%20Completion%20Certificate%20Spring%202022.pdf)
+  - [Artificial Intelligence Associate](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20AI%20Associate%20Completion%20Certificate%20Fall%202022.pdf)
+  - [CompTIA Project+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20Project+%20certificate.pdf)
+  - [CompTIA A+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20A+%20ce%20certificate.pdf)
 
 <h2>Contact:</h2>
 
