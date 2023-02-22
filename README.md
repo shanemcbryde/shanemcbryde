@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Parcel Delivery Application](https://github.com/shanemcbryde/parcelservice.git)
 - <b>Java</b>
-  - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde)
+  - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde/schedulingsystem.git)
 
 <h2>Data Science:</h2>
 
