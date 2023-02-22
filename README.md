@@ -3,7 +3,7 @@
 <h2>Programming:</h2>
 
 - <b>Python</b>
-  - [Parcel Delivery Application](https://github.com/shanemcbryde)
+  - [Parcel Delivery Application](https://github.com/shanemcbryde/parcelservice.git)
 - <b>Java</b>
   - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde)
 
