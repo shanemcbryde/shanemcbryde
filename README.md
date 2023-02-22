@@ -18,7 +18,7 @@
 <h2>Writing Skills:</h2>
 
 - [Higher Education Finally Enters the Information Age](https://github.com/shanemcbryde/highereducation.git)
-- [10,000 Years of Genetic Modification](https://github.com/shanemcbryde)
+- [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/gmo.git)
 - [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde)
 
 <h2>Credentials:</h2>
