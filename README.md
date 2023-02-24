@@ -10,7 +10,7 @@
 <h2>Data Science:</h2>
 
 - <b>Machine Learning</b>
-  - [Identifying At-Risk Students](https://github.com/shanemcbryde)
+  - [Identifying At-Risk Students]([https://github.com/shanemcbryde](https://github.com/shanemcbryde/academicperformance))
   - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde)
 - <b>Natural Language Processing</b>
   - [Information Retrieval System](https://github.com/shanemcbryde)
