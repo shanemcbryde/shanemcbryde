@@ -11,7 +11,7 @@
 
 - <b>Machine Learning</b>
   - [Identifying At-Risk Students](https://github.com/shanemcbryde/academicperformance)
-  - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde)
+  - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
 - <b>Natural Language Processing</b>
   - [Information Retrieval System](https://github.com/shanemcbryde)
 
