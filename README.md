@@ -19,7 +19,7 @@
   
 - <b>Natural Language Processing</b>
 
-  - [Information Retrieval System](https://github.com/shanemcbryde)
+  - [Information Retrieval System](https://github.com/shanemcbryde/informationretrieval)
 
 <h2>Writing Skills:</h2>
 
