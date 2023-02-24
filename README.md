@@ -25,9 +25,9 @@
 
 - <b>Essay</b>
 
-  - [Higher Education Finally Enters the Information Age](https://github.com/shanemcbryde/highereducation.git)
-  - [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/gmo.git)
-  - [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/paygap.git)
+  - [Higher Education Finally Enters the Information Age](https://github.com/shanemcbryde/composition/blob/main/Higher%20Education%20Finally%20Enters%20the%20Information%20Age.pdf)
+  - [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/composition/blob/main/10%2C000%20Years%20of%20Genetic%20Modification.pdf)
+  - [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/composition/blob/main/What%E2%80%99s%20Hidden%20Within%20the%20Pay%20Gap.pdf)
 
 <h2>Credentials:</h2>
 
