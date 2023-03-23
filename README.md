@@ -44,6 +44,6 @@
 
 <h2>Contact:</h2>
 
-  - [Resume](https://github.com/shanemcbryde/shanemcbryde/blob/3012e3e40256fe9323eb4eec742ce19d967af268/Shane%20McBryde%20-%20resume.pdf)
+  - [Resume](https://github.com/shanemcbryde/shanemcbryde/blob/cf291dbbdc1c19e7921be90f31703664ce661729/Shane%20McBryde%20-%20resume.pdf)
   - [LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
 
