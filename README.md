@@ -39,8 +39,8 @@
 
   - [Data Scientist](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20Data%20Scientist%20Completion%20Certificate%20Spring%202022.pdf)
   - [Artificial Intelligence Associate](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20AI%20Associate%20Completion%20Certificate%20Fall%202022.pdf)
+  - [Python Foundations](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/AI%20Academy/AI%20Academy%20Certificate%20of%20Completion%20-%20Foundations%20Course.pdf)
   - [CompTIA Project+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20Project+%20certificate.pdf)
-  - [CompTIA A+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20A+%20ce%20certificate.pdf)
 
 <h2>Contact:</h2>
 
