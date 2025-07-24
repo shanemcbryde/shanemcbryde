@@ -33,8 +33,8 @@
 
 - <b>Degree</b>
 
-  - [Master of Science in Data Analytics](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/BS%20Computer%20Science.pdf)
-  - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/BS%20Computer%20Science.pdf)
+  - [Master of Science in Data Analytics](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/MS%20Data%20Analytics.pdf)
+  - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/BS%20Computer%20Science.pdf)
 
 
 - <b>Certification</b>
