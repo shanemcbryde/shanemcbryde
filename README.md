@@ -13,22 +13,17 @@
 <h2>Data Science:</h2>
 
 - <b>Neural Network</b>
-  - [Airline Passenger Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
+
+  - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
 
 - <b>Machine Learning</b>
 
-  - [Identifying At-Risk Students](https://github.com/shanemcbryde/academicperformance)
   - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
-  
-- <b>Natural Language Processing</b>
-
-  - [Information Retrieval System](https://github.com/shanemcbryde/informationretrieval)
 
 <h2>Writing Skills:</h2>
 
 - <b>Essay</b>
 
-  - [Higher Education Finally Enters the Information Age](https://github.com/shanemcbryde/composition/blob/main/Higher%20Education%20Finally%20Enters%20the%20Information%20Age.pdf)
   - [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/composition/blob/main/10%2C000%20Years%20of%20Genetic%20Modification.pdf)
   - [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/composition/blob/main/What%E2%80%99s%20Hidden%20Within%20the%20Pay%20Gap.pdf)
 
