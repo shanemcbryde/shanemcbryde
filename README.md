@@ -12,6 +12,9 @@
 
 <h2>Data Science:</h2>
 
+- <b>Neural Network</b>
+  - [Airline Passenger Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
+
 - <b>Machine Learning</b>
 
   - [Identifying At-Risk Students](https://github.com/shanemcbryde/academicperformance)
