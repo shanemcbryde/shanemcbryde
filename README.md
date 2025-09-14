@@ -41,7 +41,7 @@
 
 <h2>Credentials:</h2>
 
-- <b>Degree</b>
+- <b>Degree</b> 
   - [Master of Science in Data Analytics](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/MS%20Data%20Analytics.pdf)
   - [Bachelor of Science in Computer Science](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/BS%20Computer%20Science.pdf)
 
