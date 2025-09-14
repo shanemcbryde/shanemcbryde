@@ -1,4 +1,4 @@
-<h1>Shane McBryde <br/>Data Scientist & Analyst | AI/ML | Business Intelligence</h1>
+<h1><a href="https://github.com/shanemcbryde">Shane McBryde</a> <br/>Data Scientist & Analyst | AI/ML | Business Intelligence</h1>
 
 > Highly motivated and results-driven professional with a Master's in Data Analytics and a background in Computer Science. Proven ability to leverage machine learning, business intelligence, and technical communication to transform complex data into actionable insights and strategic solutions.
 
