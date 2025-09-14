@@ -6,26 +6,31 @@
 
 - <b>Neural Network</b>
   - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
+  
     - *Analyzed passenger sentiment using a neural network to inform service improvements.*
 
 - <b>Machine Learning</b>
   - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
+  
     - *Built a predictive model to identify high-risk patients and aid in clinical decision-making.*
 
 <h2>Data Analytics:</h2>
 
 - <b>BI Report</b>
   - [Telecommunications Churn Dashboard & Analysis](https://github.com/shanemcbryde/telecom-churn-analysis)
+  
     - *Created a comprehensive BI report and dashboard to identify key drivers of customer churn.*
 
 <h2>Programming:</h2>
 
 - <b>Python</b>
   - [Parcel Delivery Application](https://github.com/shanemcbryde/parcelservice.git)
+  
     - *Developed an application to optimize delivery routes and logistics.*
  
 - <b>Java</b>
   - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde/schedulingsystem.git)
+  
     - *Engineered a scheduling tool to efficiently manage resources and user tasks.*
 
 <h2>Communication & Technical Writing:</h2>
