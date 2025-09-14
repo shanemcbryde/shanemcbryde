@@ -8,11 +8,9 @@
 - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
   - *Analyzed passenger sentiment using a neural network to inform service improvements.*
 
-- <b>Machine Learning</b>
-
-  - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
-  
-    - *Built a predictive model to identify high-risk patients and aid in clinical decision-making.*
+<b>Machine Learning</b>
+- [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
+  - *Built a predictive model to identify high-risk patients and aid in clinical decision-making.*
 
 <h2>Data Analytics:</h2>
 
