@@ -47,5 +47,6 @@
 - [CompTIA Project+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20Project+%20certificate.pdf)
 
 <h2>Contact:</h2>
+
 - [Resume](https://github.com/shanemcbryde/shanemcbryde/blob/main/Shane%20McBryde%20-%20resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
