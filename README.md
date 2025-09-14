@@ -20,6 +20,16 @@
 
   - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
 
+<h2>Data Analytics:</h2>
+
+- <b>BI </b>
+
+  - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
+
+- <b>Machine Learning</b>
+
+  - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
+
 <h2>Writing Skills:</h2>
 
 - <b>Essay</b>
