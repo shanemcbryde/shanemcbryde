@@ -3,6 +3,7 @@
 > Highly motivated and results-driven professional with a Master's in Data Analytics and a background in Computer Science. Proven ability to leverage machine learning, business intelligence, and technical communication to transform complex data into actionable insights and strategic solutions.
 
 <h2>Data Science:</h2>
+
 - <b>Neural Network</b>
   - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
     - *Analyzed passenger sentiment using a neural network to inform service improvements.*
