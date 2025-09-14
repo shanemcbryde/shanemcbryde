@@ -23,7 +23,7 @@
 <b>Python</b>
 - [Parcel Delivery Application](https://github.com/shanemcbryde/parcelservice.git)
   - *Developed an application to optimize delivery routes and logistics.*
- 
+
 <b>Java</b>
 - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde/schedulingsystem.git)
   - *Engineered a scheduling tool to efficiently manage resources and user tasks.*
