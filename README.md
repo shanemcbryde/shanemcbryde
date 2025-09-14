@@ -5,9 +5,8 @@
 <h2>Data Science:</h2>
 
 - <b>Neural Network</b>
-
-  - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
-    - *Analyzed passenger sentiment using a neural network to inform service improvements.*
+ - [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
+  - *Analyzed passenger sentiment using a neural network to inform service improvements.*
 
 - <b>Machine Learning</b>
 
