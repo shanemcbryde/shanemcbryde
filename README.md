@@ -63,3 +63,7 @@
 
 - [📄 Resume](https://github.com/shanemcbryde/shanemcbryde/blob/main/Shane%20McBryde%20-%20resume.pdf)  
 - [🔗 LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
