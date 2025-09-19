@@ -1,65 +1,60 @@
-<h1><a href="https://github.com/shanemcbryde">Shane McBryde</a> <br/>Data Scientist & Analyst | AI/ML | Business Intelligence</h1>
+# 📊 Data Analytics Portfolio
 
-> Highly motivated and results-driven professional with a Master's in Data Analytics and a background in Computer Science. Proven ability to leverage machine learning, business intelligence, and technical communication to transform complex data into actionable insights and strategic solutions.
+## 📈 BI Analysis
 
-<h2>Data Science:</h2>
+- **Telecommunications Customer Churn Analysis**  
+  [🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment) *(opens in same tab — right-click to open in new tab)*  
+  *Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.*
 
-<b>Neural Network</b>
-- [Airline Passenger Reviews Sentiment & Amenity Analysis](https://github.com/shanemcbryde/sentiment)
-  - *Analyzed passenger sentiment using a neural network to inform service improvements.*
+---
 
-<b>Machine Learning</b>
-- [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)
-  - *Built a predictive model to identify high-risk patients and aid in clinical decision-making.*
+## 🧬 Machine Learning
 
-<h2>Data Analytics:</h2>
+- **Sepsis Prediction via Temporal Pattern Mining & Deep Learning**  
+  *Built predictive models using MIMIC-III ICU data to detect septic shock 24 hours before onset.*  
+  *Compared RTP-SVM, RTP-LR, and LSTM architectures across five key metrics.*  
+  *Achieved 97% recall and 0.86 F1-score with RTP-SVM, enabling early intervention strategies.*  
+  [📘 Full Project Readme](#) *(link to your detailed write-up or GitHub repo)*
 
-<b>BI Analysis</b>
-- [Telecommunications Customer Churn Analysis](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment)
-  - *Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.*
+- **Airline Passenger Sentiment & Amenity Analysis**  
+  *Analyzed Skytrax reviews to evaluate satisfaction across seating class and passenger type.*  
+  *Built a neural network to classify sentiment and performed statistical testing on amenity scores.*  
+  *Generated strategic recommendations for service design and operational improvement.*  
+  [📘 Full Project Readme](#) *(link to your detailed write-up or GitHub repo)*
 
-<h2>Data Analytics:</h2>
+---
 
-<b>BI Analysis</b>
-<ul>
-  <li>
-    <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">
-      Telecommunications Customer Churn Analysis
-    </a>
-    <br>
-    <i>Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.</i>
-  </li>
-</ul>
+## 🧠 NLP & Text Mining
 
-<h2>Programming:</h2>
+- **Sentiment Classification with PyTorch & Skorch**  
+  *Used feedforward neural networks to classify airline passenger sentiment.*  
+  *Integrated contextual features like seating class and passenger type.*  
+  *Evaluated model using ROC-AUC, F1-score, and Brier score.*
 
-<b>Python</b>
-- [Parcel Delivery Application](https://github.com/shanemcbryde/parcelservice.git)
-  - *Developed an application to optimize delivery routes and logistics.*
+- **Negation Handling & Tokenization Pipeline**  
+  *Built a preprocessing pipeline using NLTK and spaCy for review normalization.*  
+  *Applied negation marking and contraction expansion to improve model interpretability.*
 
-<b>Java</b>
-- [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde/schedulingsystem.git)
-  - *Engineered a scheduling tool to efficiently manage resources and user tasks.*
+---
 
-<h2>Communication & Technical Writing:</h2>
+## 📚 Statistical Analysis
 
-<b>Essay</b>
-- [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/composition/blob/main/10%2C000%20Years%20of%20Genetic%20Modification.pdf)
-- [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/composition/blob/main/What%E2%80%99s%20Hidden%20Within%20the%20Pay%20Gap.pdf)
+- **Amenity Score Evaluation Across Passenger Segments**  
+  *Used Kruskal-Wallis and Dunn’s tests to identify significant differences in satisfaction.*  
+  *Analyzed distributional metrics (MAD, IQR, shape) across seating tiers and traveler types.*
 
-<h2>Credentials:</h2>
+- **Sepsis Vital Sign Trends**  
+  *Explored temporal patterns in vitals like SystolicBP, HeartRate, and WBC.*  
+  *Aligned sequences by diagnosis time to isolate predictive windows.*
 
-<b>Degree</b>
-- [Master of Science in Data Analytics](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/MS%20Data%20Analytics.pdf)
-- [Bachelor of Science in Computer Science](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/BS%20Computer%20Science.pdf)
+---
 
-<b>Certification</b>
-- [Data Scientist](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20Data%20Scientist%20Completion%20Certificate%20Spring%202022.pdf)
-- [Artificial Intelligence Associate](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/AI%20Academy/AI%20Academy%20AI%20Associate%20Completion%20Certificate%20Fall%202022.pdf)
-- [Python Foundations](https://github.com/shanemcbryde/shanemcbryde/blob/main/Certifications/AI%20Academy/AI%20Academy%20Certificate%20of%20Completion%20-%20Foundations%20Course.pdf)
-- [CompTIA Project+](https://github.com/shanemcbryde/shanemcbryde/blob/8c341e5effb786685c06dd8b67f452e4a3e48b70/Certifications/Comptia/CompTIA%20Project+%20certificate.pdf)
+## 🛠️ Tools & Technologies
 
-<h2>Contact:</h2>
+- Python, Pandas, NumPy  
+- PyTorch, Skorch, TensorFlow, Keras  
+- Scikit-learn, Statsmodels, SciPy  
+- NLTK, spaCy  
+- Tableau, Seaborn, Matplotlib  
+- BeautifulSoup, Requests  
 
-- [Resume](https://github.com/shanemcbryde/shanemcbryde/blob/main/Shane%20McBryde%20-%20resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
