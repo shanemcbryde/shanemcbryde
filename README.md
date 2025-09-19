@@ -18,6 +18,19 @@
 - [Telecommunications Customer Churn Analysis](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment)
   - *Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.*
 
+<h2>Data Analytics:</h2>
+
+<b>BI Analysis</b>
+<ul>
+  <li>
+    <a href="https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment" target="_blank">
+      Telecommunications Customer Churn Analysis
+    </a>
+    <br>
+    <i>Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.</i>
+  </li>
+</ul>
+
 <h2>Programming:</h2>
 
 <b>Python</b>
