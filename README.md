@@ -15,7 +15,7 @@
 <h2>Data Analytics:</h2>
 
 <b>BI Analysis</b>
-- [Telecommunications Customer Churn Analysis](https://github.com/shanemcbryde/telecom-churn-analysis)
+- [Telecommunications Customer Churn Analysis](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment)
   - *Created a comprehensive Tableau dashboard and analysis to identify key drivers of customer churn.*
 
 <h2>Programming:</h2>
