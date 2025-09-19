@@ -55,3 +55,11 @@
 
 - [Resume](https://github.com/shanemcbryde/shanemcbryde/blob/main/Shane%20McBryde%20-%20resume.pdf)  
 - [LinkedIn](https://www.linkedin.com/in/shanekmcbryde/)
+
+**Machine Learning**  
+- [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)  
+  *Built a predictive model to identify high-risk patients and aid in clinical decision-making.*  
+  **Skills:** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+
+
+
