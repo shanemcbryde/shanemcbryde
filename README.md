@@ -38,7 +38,7 @@
 
 **Essay**  
 - [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/composition/blob/main/gmo-essay.md)  
-- [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/composition/blob/main/What%E2%80%99s%20Hidden%20Within%20the%20Pay%20Gap.pdf)
+- [What’s Hidden Within the Pay Gap](https://github.com/shanemcbryde/composition/blob/main/paygap-essay.md)
 
 ## Credentials:
 
