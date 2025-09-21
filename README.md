@@ -44,7 +44,7 @@
   **Tools Used:**  
   [![Java](https://img.shields.io/badge/Java-007396?style=flat)](https://www.java.com) [![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat)](https://code.visualstudio.com/)
 
-## Communication & Technical Writing:
+## Composition:
 
 **Essay**  
 - [10,000 Years of Genetic Modification](https://github.com/shanemcbryde/composition/blob/main/gmo-essay.md)  
