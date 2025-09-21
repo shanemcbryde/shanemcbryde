@@ -22,7 +22,7 @@
 ## Data Analytics:
 
 **BI Analysis**  
-- [Telecommunications Customer Churn Analysis](https://public.tableau.com/app/profile/shane.mcbryde/viz/D210-RepresentationandReporting_17107923311500/PerformanceAssessment) *(external link — right-click to open in new tab)*  
+- [Telecommunications Customer Churn Analysis](https://github.com/shanemcbryde/tableau)  
   *Created a multi-layered Tableau dashboard to visualize churn patterns across customer segments. Identified key drivers of attrition using performance metrics, trend analysis, and demographic filters. Delivered insights to support retention strategies and targeted outreach.*  
 
   **Tools Used:**  
