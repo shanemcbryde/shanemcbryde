@@ -28,7 +28,8 @@
 **Machine Learning**  
 - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)  
   *Built predictive models using ICU patient vitals from MIMIC-III to detect septic shock 24 hours before onset. Compared RTP-SVM, RTP-LR, and LSTM architectures across five evaluation metrics. Achieved 97% recall and 0.86 F1-score with RTP-SVM, enabling early intervention strategies and proposing extensions to the observation window for even earlier detection.*  
-  **Skills:** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+  **Tools Used:** [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?style=flat&logo=keras&logoColor=white)](https://keras.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Metrics-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
+
 
 ## Data Analytics:
 
