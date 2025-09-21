@@ -1,7 +1,7 @@
 # [Shane McBryde](https://github.com/shanemcbryde)  
 **Data Scientist & Analyst | AI/ML | Business Intelligence**
 
-> Highly motivated and results-driven professional with a Master's in Data Analytics and a background in Computer Science. Proven ability to leverage machine learning, business intelligence, and technical communication to transform complex data into actionable insights and strategic solutions.
+> Welcome to my portfolio — a curated collection of data science, analytics, programming, and composition work that reflects both technical depth and strategic clarity. Each project is linked directly to its source, with tools and techniques noted for transparency. Whether you're exploring neural network models, business intelligence dashboards, or essays on complex topics, you'll find a consistent focus on insight, precision, and impact.
 
 ## Data Science:
 
