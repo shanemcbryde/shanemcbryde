@@ -42,7 +42,7 @@
   *Engineered a desktop scheduling system with a user-friendly interface for managing appointments, resources, and task dependencies. Implemented CRUD operations, validation logic, and calendar views to support administrative workflows.*  
 
   **Tools Used:**  
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat)](https://www.java.com) [![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat)](https://code.visualstudio.com/)
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat)](https://www.java.com) [![NetBeans IDE](https://img.shields.io/badge/IDE-NetBeans-blue?logo=apache-netbeans&style=flat)](https://netbeans.apache.org/)
 
 ## Composition:
 
