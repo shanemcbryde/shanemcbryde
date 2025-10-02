@@ -10,28 +10,20 @@
   *Developed a feedforward neural network to classify passenger sentiment using review text, seating class, and passenger type. Combined model predictions with statistical analysis of amenity scores to uncover service gaps and segment-specific satisfaction trends. Delivered actionable recommendations for operational strategy and customer experience design.*  
 
   **Tools Used:**  
-  [![Text Processing](https://img.shields.io/badge/Text_Processing-NLTK-76B900?style=flat)](https://www.nltk.org)
-[![NLP](https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat)](https://spacy.io)
-[![Data Handling](https://img.shields.io/badge/Data_Handling-Pandas-150458?style=flat)](https://pandas.pydata.org)
-[![Numerical Computing](https://img.shields.io/badge/Numerical_Computing-NumPy-013243?style=flat)](https://numpy.org)
-[![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-SciPy-blue?style=flat)](https://scipy.org)
-[![Post Hoc Analysis](https://img.shields.io/badge/Post_Hoc_Analysis-Statsmodels-darkgreen?style=flat)](https://www.statsmodels.org)
-[![Metrics](https://img.shields.io/badge/Metrics-Scikit--Learn-F7931E?style=flat)](https://scikit-learn.org)
-[![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=flat)](https://matplotlib.org)
-[![Statistical Plots](https://img.shields.io/badge/Statistical_Plots-Seaborn-76B900?style=flat)](https://seaborn.pydata.org)
-[![Web Scraping](https://img.shields.io/badge/Web_Scraping-BeautifulSoup-8B008B?style=flat)](https://www.crummy.com/software/BeautifulSoup/)
-[![HTTP Client](https://img.shields.io/badge/HTTP_Client-Requests-20232A?style=flat)](https://docs.python-requests.org)
-
-[![Text Processing](https://img.shields.io/badge/Text_Processing-NLTK-76B900?style=flat)](https://www.nltk.org)
-[![NLP](https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat)](https://spacy.io)
-[![Model Wrapper](https://img.shields.io/badge/Model_Wrapper-Skorch-blue?style=flat)](https://skorch.readthedocs.io/)
-
-[![Data Handling](https://img.shields.io/badge/Data_Handling-Pandas-150458?style=flat)](https://pandas.pydata.org)
-[![Numerical Computing](https://img.shields.io/badge/Numerical_Computing-NumPy-013243?style=flat)](https://numpy.org)
-[![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-SciPy-blue?style=flat)](https://scipy.org)
-[![Post Hoc Analysis](https://img.shields.io/badge/Post_Hoc_Analysis-Statsmodels-darkgreen?style=flat)](https://www.statsmodels.org)
-[![Metrics](https://img.shields.io/badge/Metrics-Scikit--Learn-F7931E?style=flat)](https://scikit-learn.org)
-
+  [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat)](https://pytorch.org)
+[![Python](https://img.shields.io/badge/Python-Programming_Language-3776AB?style=flat)](https://python.org)
+[![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-76B900?style=flat)](https://www.nltk.org)
+[![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat)](https://spacy.io)
+[![Skorch](https://img.shields.io/badge/Skorch-Model_Wrapper-blue?style=flat)](https://skorch.readthedocs.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
+[![SciPy](https://img.shields.io/badge/SciPy-Statistical_Testing-blue?style=flat)](https://scipy.org)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-Post_Hoc_Analysis-darkgreen?style=flat)](https://www.statsmodels.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Metrics-F7931E?style=flat)](https://scikit-learn.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat)](https://matplotlib.org)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Plots-76B900?style=flat)](https://seaborn.pydata.org)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web_Scraping-8B008B?style=flat)](https://www.crummy.com/software/BeautifulSoup/)
+[![Requests](https://img.shields.io/badge/Requests-HTTP_Client-20232A?style=flat)](https://docs.python-requests.org)
 
 **Machine Learning**  
 - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)  
