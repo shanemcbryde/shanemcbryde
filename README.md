@@ -26,6 +26,8 @@
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-20232A?style=flat)](https://docs.python-requests.org)
 
 
+[![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=Deep_Learning&labelColor=EE4C2C&color=lightgray)](https://pytorch.org)
+
 
 
 **Machine Learning**  
