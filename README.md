@@ -1,5 +1,5 @@
 # [Shane McBryde](https://github.com/shanemcbryde)  
-**Data Scientist & Analyst | AI/ML | Business Intelligence**
+**Data Analyst | BI Analyst | Aspiring Data Scientist | Python • SQL • Tableau | Machine Learning & Applied Analytics**
 
 > Welcome to my portfolio — a curated collection of data science, analytics, programming, and composition work that reflects both technical depth and strategic clarity. Each project is linked directly to its source, with tools and techniques noted for transparency. Whether you're exploring neural network models, business intelligence dashboards, or essays on complex topics, you'll find a consistent focus on insight, precision, and impact.
 
