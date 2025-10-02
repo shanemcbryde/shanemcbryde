@@ -25,6 +25,17 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B008B?style=flat&label=Web_Scraping)](https://www.crummy.com/software/BeautifulSoup/)
 [![Requests](https://img.shields.io/badge/Requests-20232A?style=flat&label=HTTP_Client)](https://docs.python-requests.org)
 
+[![Text Processing](https://img.shields.io/badge/Text_Processing-NLTK-76B900?style=flat)](https://www.nltk.org)
+[![NLP](https://img.shields.io/badge/NLP-spaCy-09A3D5?style=flat)](https://spacy.io)
+[![Model Wrapper](https://img.shields.io/badge/Model_Wrapper-Skorch-blue?style=flat)](https://skorch.readthedocs.io/)
+
+[![Data Handling](https://img.shields.io/badge/Data_Handling-Pandas-150458?style=flat)](https://pandas.pydata.org)
+[![Numerical Computing](https://img.shields.io/badge/Numerical_Computing-NumPy-013243?style=flat)](https://numpy.org)
+[![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-SciPy-blue?style=flat)](https://scipy.org)
+[![Post Hoc Analysis](https://img.shields.io/badge/Post_Hoc_Analysis-Statsmodels-darkgreen?style=flat)](https://www.statsmodels.org)
+[![Metrics](https://img.shields.io/badge/Metrics-Scikit--Learn-F7931E?style=flat)](https://scikit-learn.org)
+
+
 **Machine Learning**  
 - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)  
   *Built predictive models using ICU patient vitals from MIMIC-III to detect septic shock 24 hours before onset. Compared RTP-SVM, RTP-LR, and LSTM architectures across five evaluation metrics. Achieved 97% recall and 0.86 F1-score with RTP-SVM, enabling early intervention strategies and proposing extensions to the observation window for even earlier detection.*  
