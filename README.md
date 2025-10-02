@@ -30,7 +30,13 @@
   *Built predictive models using ICU patient vitals from MIMIC-III to detect septic shock 24 hours before onset. Compared RTP-SVM, RTP-LR, and LSTM architectures across five evaluation metrics. Achieved 97% recall and 0.86 F1-score with RTP-SVM, enabling early intervention strategies and proposing extensions to the observation window for even earlier detection.*  
 
   **Tools Used:**  
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat)](https://www.tensorflow.org/) [![Keras](https://img.shields.io/badge/Keras-Deep_Learning-red?style=flat)](https://keras.io/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Metrics-F7931E?style=flat)](https://scikit-learn.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat)](https://jupyter.org)
+  [![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&message=Deep_Learning&labelColor=FF6F00&color=gray)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/static/v1?label=Keras&message=Deep_Learning&labelColor=FF0000&color=gray)](https://keras.io/)
+[![Python](https://img.shields.io/static/v1?label=Python&message=Programming_Language&labelColor=3776AB&color=gray)](https://python.org)
+[![Scikit-learn](https://img.shields.io/static/v1?label=Scikit--Learn&message=Metrics&labelColor=F7931E&color=gray)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/static/v1?label=Pandas&message=Data_Handling&labelColor=150458&color=gray)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/static/v1?label=NumPy&message=Numerical_Computing&labelColor=013243&color=gray)](https://numpy.org)
+[![Jupyter](https://img.shields.io/static/v1?label=Jupyter&message=Notebook&labelColor=F37626&color=gray)](https://jupyter.org)
 
 ## Data Analytics:
 
@@ -39,7 +45,10 @@
   *Created a multi-layered Tableau dashboard to visualize churn patterns across customer segments. Identified key drivers of attrition using performance metrics, trend analysis, and demographic filters. Delivered insights to support retention strategies and targeted outreach.*  
 
   **Tools Used:**  
-  [![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=flat)](https://www.tableau.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org) [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
+  [![Tableau](https://img.shields.io/static/v1?label=Tableau&message=Dashboard&labelColor=E97627&color=gray)](https://www.tableau.com)
+[![Python](https://img.shields.io/static/v1?label=Python&message=Programming_Language&labelColor=3776AB&color=gray)](https://python.org)
+[![Pandas](https://img.shields.io/static/v1?label=Pandas&message=Data_Handling&labelColor=150458&color=gray)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/static/v1?label=NumPy&message=Numerical_Computing&labelColor=013243&color=gray)](https://numpy.org)
 
 ## Programming:
 
@@ -48,14 +57,17 @@
   *Designed and implemented a logistics optimization tool to streamline parcel delivery routes. Integrated distance calculations, time constraints, and delivery priorities into a modular Python application. Enhanced operational efficiency and reduced delivery time variability.*  
 
   **Tools Used:**  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://python.org) [![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat)](https://code.visualstudio.com/)
+  [![Python](https://img.shields.io/static/v1?label=Python&message=Programming_Language&labelColor=3776AB&color=gray)](https://python.org)
+[![VS Code](https://img.shields.io/static/v1?label=VS_Code&message=Editor&labelColor=007ACC&color=gray)](https://code.visualstudio.com/)
 
 **Java**  
 - [Scheduling Desktop User Interface Application](https://github.com/shanemcbryde/schedulingsystem.git)  
   *Engineered a desktop scheduling system with a user-friendly interface for managing appointments, resources, and task dependencies. Implemented CRUD operations, validation logic, and calendar views to support administrative workflows.*  
 
   **Tools Used:**  
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat)](https://www.java.com) [![NetBeans](https://img.shields.io/badge/NetBeans-Editor-blue?style=flat)](https://netbeans.apache.org/) [![NetBeans GUI Builder](https://img.shields.io/badge/NetBeans-GUI_Builder-orange?style=flat)](https://netbeans.apache.org/features/java/gui.html)
+  [![Java](https://img.shields.io/static/v1?label=Java&message=Programming_Language&labelColor=007396&color=gray)](https://www.java.com)
+[![NetBeans](https://img.shields.io/static/v1?label=NetBeans&message=Editor&labelColor=0000FF&color=gray)](https://netbeans.apache.org/)
+[![NetBeans GUI Builder](https://img.shields.io/static/v1?label=NetBeans_GUI_Builder&message=UI_Design&labelColor=FFA500&color=gray)](https://netbeans.apache.org/features/java/gui.html)
 
 ## Composition:
 
