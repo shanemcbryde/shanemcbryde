@@ -26,6 +26,7 @@
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-20232A?style=flat)](https://docs.python-requests.org)
 
 
+
 **Machine Learning**  
 - [Predicting Patient Development Of Septic Shock](https://github.com/shanemcbryde/sepsisprediction)  
   *Built predictive models using ICU patient vitals from MIMIC-III to detect septic shock 24 hours before onset. Compared RTP-SVM, RTP-LR, and LSTM architectures across five evaluation metrics. Achieved 97% recall and 0.86 F1-score with RTP-SVM, enabling early intervention strategies and proposing extensions to the observation window for even earlier detection.*  
