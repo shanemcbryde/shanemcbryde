@@ -11,10 +11,10 @@
 
   **Tools Used:**  
   [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat)](https://pytorch.org)
+[![Skorch](https://img.shields.io/badge/Skorch-Model_Wrapper-blue?style=flat)](https://skorch.readthedocs.io/)
 [![Python](https://img.shields.io/badge/Python-Programming_Language-3776AB?style=flat)](https://python.org)
 [![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-76B900?style=flat)](https://www.nltk.org)
 [![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat)](https://spacy.io)
-[![Skorch](https://img.shields.io/badge/Skorch-Model_Wrapper-blue?style=flat)](https://skorch.readthedocs.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?style=flat)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat)](https://numpy.org)
 [![SciPy](https://img.shields.io/badge/SciPy-Statistical_Testing-blue?style=flat)](https://scipy.org)
