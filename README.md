@@ -10,7 +10,7 @@
   *Developed a feedforward neural network to classify passenger sentiment using review text, seating class, and passenger type. Combined model predictions with statistical analysis of amenity scores to uncover service gaps and segment-specific satisfaction trends. Delivered actionable recommendations for operational strategy and customer experience design.*  
 
   **Tools Used:**  
-  [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat)](https://pytorch.org)
+  [![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=Deep_Learning&labelColor=EE4C2C&color=lightgray)](https://pytorch.org)
 [![Skorch](https://img.shields.io/badge/Skorch-Model_Wrapper-blue?style=flat)](https://skorch.readthedocs.io/)
 [![Python](https://img.shields.io/badge/Python-Programming_Language-3776AB?style=flat)](https://python.org)
 [![NLTK](https://img.shields.io/badge/NLTK-Text_Processing-76B900?style=flat)](https://www.nltk.org)
@@ -26,7 +26,7 @@
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-20232A?style=flat)](https://docs.python-requests.org)
 
 
-[![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=Deep_Learning&labelColor=EE4C2C&color=lightgray)](https://pytorch.org)
+
 
 
 
